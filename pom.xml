@@ -2,5 +2,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mcnz.maven.example</groupId>
   <artifactId>maven-tutorial</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.1</version>
 </project>
